@@ -8,7 +8,7 @@ body {
 #header {
     height: 327px;
     /* background-image: url(/img/header_bg.jpg); background-repeat: repeat-x; background-position: center top; */
-    background: url(/img/header_bg.jpg) repeat-x center top;
+    background: url(../img/header_bg.jpg) repeat-x center top;
 }
 
 #contents {}
